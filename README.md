@@ -24,20 +24,25 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamerskymaster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dreamerskymaster&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerskymaster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dreamerskymaster&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamerskymaster&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamerskymaster&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerskymaster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ### ✍️ Random Dev Quote
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=dreamerskymaster&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Quote" />
+</div>
 
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=dreamerskymaster&icon=3&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) & refined by AI -->
+<div align="center">
+  <a href="https://github.com/dreamerskymaster">
+    <img src="https://komarev.com/ghpvc/?username=dreamerskymaster&style=flat&color=blue" alt="Profile Views" />
+  </a>
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and refined by AI -->
