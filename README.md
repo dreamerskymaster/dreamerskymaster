@@ -1,5 +1,10 @@
 # 💫 About Me
 
+[![Launch Video](https://img.shields.io/badge/Launch%20Video-MP4-ff0055?style=for-the-badge&logo=youtube&logoColor=white)](brag-output/brag.mp4)
+
+![Demo](docs/demo.gif)
+
+
 - 🖱️ **I'm currently working on:** Manufacturing AI & Automation Systems – building ML-powered cost estimation models, RAG systems for technical documentation, and enterprise integrations for industrial operations at Van Dyk Recycling Solutions.
 - 👥 **I'm looking to collaborate on:** Open-source industrial automation projects, manufacturing intelligence tools, and ML applications across supply chain optimization and predictive maintenance.
 - 🤝 **I'm looking for help with:** Scaling ML models in production environments and establishing best practices for deploying robust AI systems in manufacturing settings under real-time constraints.
