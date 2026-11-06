@@ -14,6 +14,7 @@
 
 ## 🌐 Socials
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-manufx.vercel.app-0A0A0A?logo=vercel&logoColor=white)](https://manufx.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajithsrikanth_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as31)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajithsrikanth.f@northeastern.edu)
